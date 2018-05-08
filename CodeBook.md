@@ -9,12 +9,12 @@ See the 'ReadMe.md' file for the project instruction.
 
 * 'subject' - Subject identifier, integer, ranges from 1 to 30
 * 'Activity' - Type of activity performed 6 possible values
-  -`WALKING` (value `1`): subject was walking during the test
-  -`WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
-  -`WALKING_DOWNSTAIRS` (value `3`): subject was walking down a staircase during the test
-  -`SITTING` (value `4`): subject was sitting during the test
-  -`STANDING` (value `5`): subject was standing during the test
-  -`LAYING` (value `6`): subject was laying down during the test
+	- `WALKING`: subject was walking
+	- `WALKING_UPSTAIRS`: subject was walking upstairs
+	- `WALKING_DOWNSTAIRS`: subject was walking downstairs
+	- `SITTING`: subject was sitting
+	- `STANDING`: subject was standing
+	- `LAYING`: subject was laying
 
 ### Measurements
 
